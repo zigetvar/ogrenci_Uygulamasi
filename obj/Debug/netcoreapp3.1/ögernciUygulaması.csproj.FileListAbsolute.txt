@@ -1,0 +1,13 @@
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.exe
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.deps.json
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.runtimeconfig.json
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.runtimeconfig.dev.json
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.dll
+D:\c# dersleri\ögernciUygulaması\bin\Debug\netcoreapp3.1\ögernciUygulaması.pdb
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.csprojAssemblyReference.cache
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.AssemblyInfoInputs.cache
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.AssemblyInfo.cs
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.csproj.CoreCompileInputs.cache
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.dll
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.pdb
+D:\c# dersleri\ögernciUygulaması\obj\Debug\netcoreapp3.1\ögernciUygulaması.genruntimeconfig.cache
